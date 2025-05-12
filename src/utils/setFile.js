@@ -1,3 +1,3 @@
 export const setFile = url => {
-  return `https://schedule-server-n5ow.onrender.com/${url}`;
+  return `https://schedule-server-igwd.onrender.com/${url}`;
 };

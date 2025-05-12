@@ -5,7 +5,7 @@ export const useRequest = () => {
   const [loading, setLoading] = useState(null);
   const [error, setError] = useState(null);
 
-  const BASE_URL = 'https://schedule-server-n5ow.onrender.com/api';
+  const BASE_URL = 'https://schedule-server-igwd.onrender.com/api';
 
   const defaultHeaders = {
     'Content-type': 'application/json',
